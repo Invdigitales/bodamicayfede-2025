@@ -59,9 +59,9 @@
     width: 35%;
     height: 20px;
     margin-left: 32%;
-    background-color:  #ffffff;
+    background-color:  #b8b8b8;
     color: #646464bd;
-    margin-top: -5%;
+    margin-top: 5%;
     
 }
 .fraseinicio{
@@ -566,7 +566,7 @@ margin-top: -17%;
     font-family: 'Julius Sans One', sans-serif;
     font-size: 12px;
     text-align: center;
-    margin-top: 2%;
+    margin-top: 10%;
     color: #5b675c;
     font-weight: 700;
    
@@ -578,15 +578,7 @@ margin-top: -17%;
     
     
     }
-    .audio{
-      width: 35%;
-      height: 20px;
-      margin-left: 32%;
-      background-color:  #ffffff;
-      margin-top: -10%;
-      
-  }
-
+  
 
 .final{
  text-align: center;
@@ -613,7 +605,9 @@ margin-top: -17%;
    margin-top: 18%;
 }
 
-
+.cajaaudio{
+  margin-top: 5%;
+}
 
 
 
