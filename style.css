@@ -12,7 +12,15 @@
 .portada{
   width: 100%;
 }
-
+  .audio{
+    width: 35%;
+    height: 20px;
+    margin-left: 32%;
+    background-color:  #a0a0a0;
+    color: #646464bd;
+    margin-top: 5%;
+    
+}
 
   .cuenta-regresiva {
     display: flex;
